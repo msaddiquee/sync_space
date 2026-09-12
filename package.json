@@ -1,0 +1,25 @@
+{
+  "name": "syncspace-fullstack",
+  "version": "1.0.0",
+  "description": "Real-Time Collaborative Workspace (MERN + Socket.io)",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build",
+    "start": "npm --prefix server start"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "node",
+    "express",
+    "mongodb",
+    "socketio",
+    "notion-clone",
+    "miro-clone",
+    "collaboration"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
